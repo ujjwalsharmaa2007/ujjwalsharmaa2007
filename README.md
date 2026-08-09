@@ -51,7 +51,26 @@
   <img src="https://raw.githubusercontent.com/ujjwalsharmaa2007/ujjwalsharmaa2007/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚠️ This needs a one-time setup — see SETUP.md included below. It's just copy-pasting a small file into your repo, takes 2 minutes.
+---
+
+### 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
+
+---
+
+### 🗺️ My ML Roadmap
+
+- [x] **Phase 1:** Python Core (variables, loops, functions, lists, dictionaries)
+- [ ] **Phase 2:** Data Tools & Git (NumPy, Pandas, version control)
+- [ ] **Phase 3:** Math for ML (linear algebra, stats, calculus basics)
+- [ ] **Phase 4:** Classical ML (regression, classification, scikit-learn)
+- [ ] **Phase 5:** Deep Learning (neural nets, TensorFlow/PyTorch)
+- [ ] **Phase 6:** Portfolio (real projects, GitHub polish, deployment)
+
+> 🎯 Target: solid ML foundation in ~4-5 months. Following along in real time — check back for updates.
 
 ---
 
