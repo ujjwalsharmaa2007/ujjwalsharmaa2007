@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_rank=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharmaa2007&show_icons=true&theme=radical&hide_rank=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharmaa2007&theme=radical" height="165">
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### 🐍 Contribution Snake (the racing effect)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ujjwalsharmaa2007/ujjwalsharmaa2007/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 > ⚠️ This needs a one-time setup — see SETUP.md included below. It's just copy-pasting a small file into your repo, takes 2 minutes.
@@ -59,19 +59,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 </p>
 
-<p align="center"><em>"Just getting started — check back soon."</em></p>## Hi there 👋
-
-<!--
-**ujjwalsharmaa2007/ujjwalsharmaa2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><em>"Just getting started — check back soon."</em></p>
