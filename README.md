@@ -19,9 +19,7 @@
 
 - 🎓 First-year BTech student specializing in **AI/ML**
 - 🐍 Currently learning **Python**, on my way to **Machine Learning**
-- 🌱 New to GitHub — first commits coming soon, watch this space
 - 🎯 Goal: build real projects, not just tutorials, and actually understand what I'm doing
-- 🎥 Also make content on Instagram about my growth journey
 
 ---
 
