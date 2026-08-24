@@ -1,0 +1,14 @@
+name: Generate Stats Images
+on:
+  schedule:
+    - cron: "0 0 * * *"  # once a day
+  workflow_dispatch:      # lets you trigger it manually too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jstrippel/github-profile-summary-cards@main
+        with:
+          user: ujjwalsharmaa2007
+          theme: tokyonight
