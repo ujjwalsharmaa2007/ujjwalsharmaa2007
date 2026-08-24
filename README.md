@@ -34,16 +34,13 @@
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalsharmaa2007&show_icons=true&theme=tokyonight&hide_rank=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsharmaa2007&layout=compact&theme=tokyonight" height="165">
+  <img src="./profile/stats.svg" height="165">
+  <img src="./profile/top-langs.svg" height="165">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsharmaa2007&theme=tokyonight" width="500">
-</p>
+
 ### 🐍 Contribution Snake (the racing effect)
 
 <p align="center">
