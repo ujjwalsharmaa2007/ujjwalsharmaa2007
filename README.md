@@ -23,7 +23,6 @@
 
 ---
 
-### 🛠️ Tools I'm Learning
 
 ### 🛠️ Skills & Tools I'm Learning
 
